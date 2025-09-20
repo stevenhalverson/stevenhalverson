@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Steven 👋
 
-<!--
-**stevenhalverson/stevenhalverson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work at the intersection of **AI annotation, dataset curation, and fine-tuning**.  
+My current focus is a **1,200+ image annotation project** using Label Studio, exploring how high-quality data feeds into LoRA fine-tuning and multimodal RLHF.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Projects
+- 🖼️ **AI Image Annotation Project** — Custom schema, Label Studio setup, 1,200+ curated images.  
+- 🔧 **Workflow Experiments** — Docker + Python scripts for preprocessing and exports. Getting used to using Git Bash. 
+---
+
+### Previous Project
+- 🎲 **Baccarat Simulator (first coding project)** — my early steps into coding projects, kept as is to show the journey. 
+- 🎲 **find_directory_size** — just a quick script done, to show better documentation and organization.
+
+💡 My goal: grow from hands-on annotation → **AI Ops / RLHF systems work**.  
+
+👉 For more about my background and career journey, please visit my [LinkedIn](https://www.linkedin.com/in/YOUR-LINK/).
+
+🤖 I use ChatGPT as a coding assistant — like Stack Overflow or docs — but always engage and learn from the code I write.
