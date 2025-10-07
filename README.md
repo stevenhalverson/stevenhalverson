@@ -16,6 +16,6 @@ My current focus is my own **SSLQ image annotation project** using Label Studio,
 
 💡 My goal: grow from hands-on annotation → **AI Ops / RLHF systems work**.  
 
-👉 For more about my background and career journey, please visit my [LinkedIn](www.linkedin.com/in/sghalverson).
+👉 For more about my background and career journey, please visit my [LinkedIn](http://www.linkedin.com/in/sghalverson).
 
 🤖 I use ChatGPT as a coding assistant — like Stack Overflow or docs — but always engage and learn from the code I write.
