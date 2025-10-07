@@ -7,7 +7,7 @@ My current focus is my own **SSLQ image annotation project** using Label Studio,
 
 ### Current Projects
 - 🖼️ **SSLQ** — Custom schema, Label Studio setup, 1,200+ curated images (600 annotated) [SSLQ](https://huggingface.co/datasets/shalvers/SSLQ-Version-1.600).   
-- 🔧 **Workflow Experiments** — Docker + Python scripts for preprocessing and exports. Getting used to using Git Bash. 
+- 🔧 **Workflow Experiments** — Docker + Python scripts for preprocessing and exports.
 ---
 
 ### Previous Project
