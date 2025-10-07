@@ -1,7 +1,7 @@
 # Hi, I'm Steven 👋
 
 I work at the intersection of **AI annotation, dataset curation, and fine-tuning**.  
-My current focus is a **1,200+ image annotation project** using Label Studio, exploring how high-quality data feeds into LoRA fine-tuning and multimodal RLHF.
+My current focus is my own **SSLQ image annotation project** using Label Studio, exploring how high-quality data feeds into LoRA fine-tuning and multimodal RLHF.
 
 ---
 
@@ -16,6 +16,6 @@ My current focus is a **1,200+ image annotation project** using Label Studio, ex
 
 💡 My goal: grow from hands-on annotation → **AI Ops / RLHF systems work**.  
 
-👉 For more about my background and career journey, please visit my [LinkedIn](https://www.linkedin.com/in/YOUR-LINK/).
+👉 For more about my background and career journey, please visit my [LinkedIn](www.linkedin.com/in/sghalverson).
 
 🤖 I use ChatGPT as a coding assistant — like Stack Overflow or docs — but always engage and learn from the code I write.
