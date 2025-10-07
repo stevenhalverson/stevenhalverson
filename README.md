@@ -12,7 +12,7 @@ My current focus is my own **SSLQ image annotation project** using Label Studio,
 
 ### Previous Project
 - 🎲 **Baccarat Simulator (first coding project)** — my early steps into coding projects, kept as is to show the journey. 
-- 🎲 **find_directory_size** — just a quick script done, to show better documentation and organization.
+-🗄️  **find_directory_size** — just a quick script done, to show better documentation and organization.
 
 💡 My goal: grow from hands-on annotation → **AI Ops / RLHF systems work**.  
 
