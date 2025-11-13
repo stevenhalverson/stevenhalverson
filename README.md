@@ -19,4 +19,4 @@ My current focus is my own **SSLQ image annotation project** using Label Studio,
 
 👉 For more about my background and career journey, please visit my [LinkedIn](https://www.linkedin.com/in/sghalverson).
 
-🤖 I use ChatGPT as a coding assistant — like Stack Overflow or docs — but always engage and learn from the code I write.
+🤖 I use ChatGPT as a coding and writing assistant — like Stack Overflow, docs, or (gasp!) this readme — but always engage and learn from the code I write.
