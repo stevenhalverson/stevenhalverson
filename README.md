@@ -1,7 +1,7 @@
 # Hi, I'm Steven 👋
 
 I work at the intersection of **AI annotation, dataset curation, and model training**.  
-My current focus is my own **SSLQ image annotation project** using AI generated images (synthetic data) annotated via Label Studi, uploading to Hugging Face, and used in training LoRA image models.
+My current focus is my own **SSLQ image annotation project** using AI generated images (synthetic data) annotated via Label Studio, uploaded to Hugging Face, and used in training LoRA image models.
 
 ---
 
